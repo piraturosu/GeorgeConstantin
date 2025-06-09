@@ -1,4 +1,4 @@
-# 👨‍🍳 From Head Chef to Coder – Hi, I'm George!
+# 👨‍🍳 From Head Chef to Software Developer – Hi, I'm George!
 
 I'm transitioning into the world of software development after over 12 years in high-pressure kitchens – including leading one of the busiest golf hotels in the West Midlands. I’ve brought my focus, adaptability, and work ethic into tech.
 
